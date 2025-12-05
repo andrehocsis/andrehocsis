@@ -1,36 +1,54 @@
-### Olá, sou o André Hocsis! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
+  <h1>Olá, eu sou o André Hocsis!</h1>
+  <h3>Gerente de Projetos & Entusiasta Tech</h3>
+</div>
 
-Sou um **Gerente de Projetos** apaixonado por conectar negócios, tecnologia e pessoas. Atualmente lidero projetos na **TRACKen**, o maior TMS Same Day do Brasil, e desenvolvo soluções SaaS.
-
-Minha missão é clara: ajudar negócios e pessoas a alcançarem seu potencial máximo através de gestão eficiente e tecnologia.
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrehocsis/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://tracken.com.br">
+    <img src="https://img.shields.io/badge/TRACKen-61a60e?style=for-the-badge&logoColor=white" target="_blank">
+  </a>
+</p>
 
 ---
 
-### 🚀 O que estou fazendo agora
-- 🏢 **Project Manager** na [TRACKen](https://tracken.com.br)
-- 🌐 Criador do **Inocoop Club** (Guia de Bairro)
-- 💻 Construindo a marca e tecnologia da **BLIPEI**
-- 🐍 Estudando automação com **Python** e desenvolvimento Web com **PHP**
+### 🧐 Sobre Mim
+
+Sou um profissional focado em **Sales, Gestão de Projetos e Desenvolvimento Pessoal**. Atualmente, atuo como PM na **TRACKen**, o maior TMS Same Day do Brasil, onde conecto necessidades de negócio com soluções tecnológicas.
+
+- 🔭 Atualmente trabalhando na **BLIPEI** e **Inocoop Club**.
+- 🌱 Estudando **Python** para automação e **Laravel** para web.
+- 💬 Me pergunte sobre **Gestão Ágil, Processos e Vendas**.
+- ⚡ Fun fact: Eu crio minhas próprias ferramentas para otimizar meu dia a dia.
 
 ---
 
-### 🛠️ Tech & Tools
-Não sou apenas gestor de planilhas; eu entendo o código e o fluxo de desenvolvimento.
+### 💻 Tech Stack & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="MeisterTask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/MeisterTask-00A9E0?style=for-the-badge&logo=meistertask&logoColor=white" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true)
----
+### 📊 Estatísticas do GitHub
 
-### 📫 Vamos conectar?
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrehocsis/)](LINK_DO_SEU_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
+<div align="center">
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  </p>
+</div>
