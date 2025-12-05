@@ -115,8 +115,3 @@
 | **Inocoop Club** | Guia de bairro digital. Desenvolvimento Full Stack e SEO Local. | [Acessar 🔗](https://inocoop.club/) |
 
 <br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehocsis&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehocsis&layout=compact&theme=dracula&hide_border=true"/>
-</div>
