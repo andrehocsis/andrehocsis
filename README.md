@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Gerente+de+Projetos+Full+Stack;Especialista+em+PHP%2C+HTML5+%26+CSS3;Mestre+em+SEO%2C+AdSense+%26+Wordpress;Engenharia+de+Prompts+%26+AI;Recrutamento+Tech+%26+Lideran%C3%A7a" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=333333&center=true&vCenter=true&width=650&lines=Gerente+de+Projetos+Full+Stack;Lideran%C3%A7a+de+Squads+%26+Recrutamento+Tech;Especialista+em+PHP%2C+HTML5+%26+CSS3;Mestre+em+SEO%2C+AdSense+%26+Wordpress;Engenharia+de+Prompts+%26+Gest%C3%A3o+%C3%81gil" alt="Typing Animation" />
   </a>
 </div>
 
@@ -13,8 +13,8 @@
 
 <div align="center">
   <p align="center" style="max-width: 700px;">
-    Olá! Sou um profissional híbrido entre <b>Gestão e Código</b>. <br>
-    Minha missão é liderar times de alta performance, conectar negócios à tecnologia e escalar operações logísticas e digitais. Faço o recrutamento técnico, desenho a arquitetura e gerencio a entrega.
+    Olá! Sou um profissional híbrido entre <b>Gestão Estratégica e Execução Técnica</b>. <br>
+    Minha missão é liderar times de alta performance, conectar a visão de negócio à realidade do código e escalar operações logísticas e digitais complexas.
   </p>
 </div>
 
@@ -48,7 +48,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 TRACKen</h3>
       <p align="center"><i>Maior TMS Same Day do Brasil</i></p>
-      <p>Atuo como <b>Project Manager</b> focado em logística rápida. Meu papel envolve gestão de squads, recrutamento de desenvolvedores e alinhamento de integrações complexas.</p>
+      <p>Atuo como <b>Project Manager</b> focado em logística rápida. Lidero squads, realizo o recrutamento técnico de devs e gerencio integrações de alto volume.</p>
       <p align="center"><b>Parceiros de Integração:</b></p>
       <div align="center">
         <img src="https://img.shields.io/badge/Mercado_Livre-FFE600?style=flat&logo=mercadolibre&logoColor=2D3277&labelColor=FFE600">
@@ -59,11 +59,11 @@
     <td width="50%" valign="top">
       <h3 align="center">🏆 Venda e Cia</h3>
       <p align="center"><i>Sistema de Dropshipping Premiado</i></p>
-      <p>Atuei como <b>Head</b> em um ecossistema robusto de e-commerce. Estruturei processos de vendas e tecnologia que permitiram escala agressiva das operações.</p>
+      <p>Atuei como <b>Head</b> em um ecossistema robusto de e-commerce. Estruturei do zero processos de vendas e tecnologia que permitiram a escala agressiva da operação.</p>
       <div align="center">
         <br>
-        <img src="https://img.shields.io/badge/Status-Premiado-gold?style=flat">
-        <img src="https://img.shields.io/badge/Role-Head_de_Opera%C3%A7%C3%B5es-blueviolet?style=flat">
+        <img src="https://img.shields.io/badge/Status-Premiado-gold?style=flat&logo=adguard&logoColor=white">
+        <img src="https://img.shields.io/badge/Role-Head_de_Opera%C3%A7%C3%B5es-blueviolet?style=flat&logo=Opsgenie&logoColor=white">
       </div>
     </td>
   </tr>
@@ -77,23 +77,24 @@
   <tr>
     <td align="center" width="33%">
       <h4>💻 Dev & Code</h4>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
     </td>
     <td align="center" width="33%">
       <h4>📈 Marketing & SEO</h4>
-      <img src="https://img.shields.io/badge/SEO-Expert-8DA531?style=flat-square&logo=google-search-console&logoColor=white">
-      <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white">
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-      <img src="https://img.shields.io/badge/AdSense-FABD03?style=flat-square&logo=google-adsense&logoColor=white">
+      <img src="https://img.shields.io/badge/SEO-Expert-8DA531?style=flat&logo=google-search-console&logoColor=white">
+      <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=google-ads&logoColor=white">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
+      <img src="https://img.shields.io/badge/AdSense-FABD03?style=flat&logo=google-adsense&logoColor=white">
     </td>
     <td align="center" width="33%">
       <h4>🧠 Gestão & AI</h4>
-      <img src="https://img.shields.io/badge/AI-Prompt_Engineering-000000?style=flat-square&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/Tech-Recruiter-blue?style=flat-square">
-      <img src="https://img.shields.io/badge/Gest%C3%A3o-Full_Stack-red?style=flat-square">
+      <img src="https://img.shields.io/badge/AI-Prompt_Engineering-000000?style=flat&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/Trello-Gest%C3%A3o_%C3%81gil-0052CC?style=flat&logo=trello&logoColor=white">
+      <img src="https://img.shields.io/badge/MeisterTask-Produtividade-00A9E0?style=flat&logo=meistertask&logoColor=white">
+      <img src="https://img.shields.io/badge/Tech-Recruiter-blue?style=flat&logo=linkedin&logoColor=white">
     </td>
   </tr>
 </table>
@@ -102,7 +103,11 @@
 <hr>
 
 ### 🧪 Labs & Projetos Pessoais
-<i>"A melhor forma de liderar devs é codando junto."</i>
+<div align="center">
+  <i>"Unir-se é um bom começo, manter a união é um progresso, e trabalhar em conjunto é a vitória."</i><br>
+  <b>— Henry Ford</b>
+</div>
+<br>
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -114,7 +119,4 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrehocsis&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrehocsis&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrehocsis&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
